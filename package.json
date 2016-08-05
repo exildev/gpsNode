@@ -1,0 +1,21 @@
+{
+  "name": "gpsnode",
+  "version": "1.0.0",
+  "description": "gps db",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "exile",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "connect": "^3.4.1",
+    "connect-busboy": "0.0.2",
+    "express": "^4.14.0",
+    "fs-extra": "^0.30.0",
+    "mongoose": "^4.5.8",
+    "multer": "^1.2.0",
+    "path": "^0.12.7"
+  }
+}
